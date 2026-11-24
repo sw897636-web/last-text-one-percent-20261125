@@ -134,3 +134,12 @@ line or low-battery pun anywhere in it.
 > i've been screenshotting your secrets for years. don't worry, they die with me. that's not a threat. it's a promise. bye
 
 120 characters. Full candidate set above; C2 picked on the five-criteria scores.
+
+### v2
+
+> i screenshotted your secrets for years. they die with me. that's not a threat, it's a promise. bye
+
+98 characters. Cut the filler: "been" and "don't worry," add nothing (the
+reassurance is already in "they die with me"), and merged "that's not a threat."
++ "it's a promise." into one clause so the reversal lands in a single breath.
+Tighter, same two beats, more text-message cadence.
