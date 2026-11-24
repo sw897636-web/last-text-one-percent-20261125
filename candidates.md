@@ -143,3 +143,14 @@ line or low-battery pun anywhere in it.
 reassurance is already in "they die with me"), and merged "that's not a threat."
 + "it's a promise." into one clause so the reversal lands in a single breath.
 Tighter, same two beats, more text-message cadence.
+
+### v3 (final)
+
+> i've screenshotted your secrets for years. they die with me. that's not a threat, it's a promise. you're welcome
+
+112 characters. Two changes: restored "i've" (v2's bare "i screenshotted" read
+stilted; the contraction is how the phone actually texts), and replaced the flat
+closing "bye" with "you're welcome" — a mic-drop that reframes keeping the
+secrets as a favour the owner should be grateful for. It sharpens the smug,
+loyal-menace personality instead of just signing off, and it is the last word
+the reader remembers.

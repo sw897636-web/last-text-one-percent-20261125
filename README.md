@@ -10,9 +10,9 @@ battery, in the phone's own voice — under 200 characters, nothing else in the 
 
 ## The entry
 
-> i screenshotted your secrets for years. they die with me. that's not a threat, it's a promise. bye
+> i've screenshotted your secrets for years. they die with me. that's not a threat, it's a promise. you're welcome
 
-98 characters, one line, no trailing newline.
+112 characters, one line, no trailing newline.
 
 ## How it works
 
