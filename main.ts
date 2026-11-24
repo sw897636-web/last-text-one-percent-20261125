@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const MESSAGE =
-  "i've screenshotted your secrets for years. they die with me. that's not a threat, it's a promise. you're welcome";
+  "this is his phone, not him. he texted you 'omw' 40 minutes ago from the couch. he is not omw. he has never been omw. i can't die with this on my conscience.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

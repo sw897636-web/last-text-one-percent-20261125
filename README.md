@@ -10,9 +10,9 @@ battery, in the phone's own voice — under 200 characters, nothing else in the 
 
 ## The entry
 
-> i've screenshotted your secrets for years. they die with me. that's not a threat, it's a promise. you're welcome
+> this is his phone, not him. he texted you 'omw' 40 minutes ago from the couch. he is not omw. he has never been omw. i can't die with this on my conscience.
 
-112 characters, one line, no trailing newline.
+156 characters, one line, no trailing newline.
 
 ## How it works
 
